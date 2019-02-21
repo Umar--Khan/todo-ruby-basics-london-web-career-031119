@@ -7,6 +7,7 @@ value
 end
 
 def argue(phrase)
+phrase
 end
 
 def greeting(greeting, name)
